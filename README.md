@@ -23,7 +23,7 @@ PS: I actually play everything
 - Maimai Bot - A QQ bot plugin that combines various query functions for Maimai DX
 
 ## 🌍 Social Media
-- [Bilibili](叫我燕子ye)
+- [Bilibili]
 
 Thanks for visiting my homepage~
 
@@ -54,7 +54,7 @@ ps：其实什么都玩
 - 舞萌痴bot - 一个集合舞萌DX的各种查询功能的QQ机器人插件
 
 ## 🌍 社交媒体
-- [Bilibili](叫我燕子ye)
+- [Bilibili]
 
 感谢访问我的主页呢~
 
@@ -85,7 +85,7 @@ PS：実際には何でもプレイします
 - 舞萌ボット - 舞萌DXのさまざまなクエリ機能を集約したQQボットプラグイン
 
 ## 🌍 ソーシャルメディア
-- [Bilibili](燕子と呼んでくださいye)
+- [Bilibili]
 
 私のホームページに訪れてくれてありがとう〜
 
