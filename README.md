@@ -9,7 +9,7 @@
 
 ## 🎮 Interests
 - Music Games: "Project Sekai," "Maimai"
-- Online Games: "League of Legends," "Fortnite," "Valorant"
+- Online Games: "Delta Force","League of Legends," "Fortnite," "Valorant"
 - Console Games: "The Legend of Zelda," "Black Myth: Wukong"
 
 PS: I actually play everything
@@ -40,7 +40,7 @@ Thanks for visiting my homepage~
 
 ## 🎮 兴趣爱好
 - 音乐游戏：『世界计划』 『舞萌』
-- 网络游戏：『英雄联盟』 『堡垒之夜』 『瓦洛兰特』
+- 网络游戏：『三角洲行动』 『英雄联盟』 『堡垒之夜』 『瓦洛兰特』
 - 主机游戏：『塞尔达传说』 『黑神话悟空』
 
 ps：其实什么都玩
@@ -52,9 +52,6 @@ ps：其实什么都玩
 
 ## 📂 项目
 - 舞萌痴bot - 一个集合舞萌DX的各种查询功能的QQ机器人插件
-
-## 🌍 社交媒体
-- [Bilibili]
 
 感谢访问我的主页！
 
