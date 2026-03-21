@@ -1,58 +1,41 @@
-# Hello, Welcome to My GitHub Homepage!
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1f2937,45:334155,100:64748b&text=Ricaran/Yanzi&fontColor=f8fafc&fontAlignY=45&fontSize=50" />
+</p>
 
-👋 I'm Yanzi, my English name is Ricaran.
+<p align="center"><i>いってらっしゃい、君ガ思うところまで</i></p>
+<p align="center"><i>路上小心，去你想去的地方吧</i></p>
 
-## 🚀 About Me
-- 💻 A regular second-year university student
-- 🌱 I'm learning [C++]
-- 📫 You can contact me at [ricaran@qq.com]
+<p align="center">Embedded Developer · Nonebot Plugin Builder · ACG Traveler</p>
 
-## 🎮 Interests
-- Music Games: "Project Sekai," "Maimai"
-- Online Games: "Delta Force","League of Legends," "Fortnite," "Valorant"
-- Console Games: "The Legend of Zelda," "Black Myth: Wukong"
+<p align="center">
+	<a href="mailto:ricaran@qq.com">
+		<img src="https://img.shields.io/badge/Email-ricaran%40qq.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
 
-PS: I actually play everything
+## About Me
 
-## 🛠️ Skills
-- C++
-- Python
-- nonebot plugin development
+- Name: Yanzi (Ricaran)
+- Status: Undergraduate student (Year 3)
+- Current Route: C / Python / Nonebot plugin development
+- Contact: ricaran@qq.com
 
-## 📂 Projects
-- Maimai Bot - A QQ bot plugin that combines various query functions for Maimai DX
+## Likes
+- ACG Culture
+- Music Games: Project Sekai, Maimai DX
+- Online Games: Delta Force, League of Legends, Fortnite, Valorant
+- Console Games: The Legend of Zelda, Black Myth: Wukong
 
-## 🌍 Social Media
-- [Bilibili]
+## Featured Project
 
-Thanks for visiting my homepage~
+### 舞萌痴Bot
 
----
+A QQ bot focused on Maimai DX query and utility features.
+Built for practical use, quick response, and modular extension.
 
-# 你好，欢迎来到我的GitHub主页！
+## GitHub Metrics
 
-👋 我是 燕子，英文名为 Ricaran。
-
-## 🚀 关于我
-- 💻 一个普通在校大二学生
-- 🌱 我正在学习 [c++]
-- 📫 可以通过 [ricaran@qq.com] 联系我
-
-## 🎮 兴趣爱好
-- 音乐游戏：『世界计划』 『舞萌』
-- 网络游戏：『三角洲行动』 『英雄联盟』 『堡垒之夜』 『瓦洛兰特』
-- 主机游戏：『塞尔达传说』 『黑神话悟空』
-
-ps：其实什么都玩
-
-## 🛠️ 技能
-- C++
-- Python
-- nonebot插件开发
-
-## 📂 项目
-- 舞萌痴bot - 一个集合舞萌DX的各种查询功能的QQ机器人插件
-
-感谢访问我的主页！
-
----
+<p>
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricaran1&show_icons=true&theme=transparent&title_color=f1f5f9&text_color=e2e8f0&icon_color=cbd5e1&bg_color=00000000&hide_border=true" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricaran1&layout=compact&theme=transparent&title_color=f1f5f9&text_color=e2e8f0&bg_color=00000000&hide_border=true" />
+</p>
