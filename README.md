@@ -36,6 +36,6 @@ Built for practical use, quick response, and modular extension.
 ## GitHub Metrics
 
 <p>
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricaran1&show_icons=true&theme=transparent&title_color=f1f5f9&text_color=e2e8f0&icon_color=cbd5e1&bg_color=00000000&hide_border=true" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricaran1&layout=compact&theme=transparent&title_color=f1f5f9&text_color=e2e8f0&bg_color=00000000&hide_border=true" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricaran1&show_icons=true&theme=transparent&title_color=1f2937&text_color=334155&icon_color=475569&bg_color=00000000&hide_border=true" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricaran1&layout=compact&theme=transparent&title_color=1f2937&text_color=334155&bg_color=00000000&hide_border=true" />
 </p>
