@@ -17,8 +17,7 @@
 
 - Name: Yanzi (Ricaran)
 - Status: Undergraduate student (Year 3)
-- Current Route: C / Python / Nonebot plugin development
-- Contact: ricaran@qq.com
+- Current Route: C / Java / Python / Nonebot plugin development
 
 ## GitHub Metrics
 
