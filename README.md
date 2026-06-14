@@ -20,19 +20,6 @@
 - Current Route: C / Python / Nonebot plugin development
 - Contact: ricaran@qq.com
 
-## Likes
-- ACG Culture
-- Music Games: Project Sekai, Maimai DX
-- Online Games: Delta Force, League of Legends, Fortnite, Valorant
-- Console Games: The Legend of Zelda, Black Myth: Wukong
-
-## Featured Project
-
-### 舞萌痴Bot
-
-A QQ bot focused on Maimai DX query and utility features.
-Built for practical use, quick response, and modular extension.
-
 ## GitHub Metrics
 
 <p>
