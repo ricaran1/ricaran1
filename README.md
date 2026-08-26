@@ -16,7 +16,7 @@
 ## About Me
 
 - Name: Yanzi (Ricaran)
-- Status: Undergraduate student (Year 3)
+- Status: Undergraduate student (Year 4)
 - Current Route: C / Java / Python / Nonebot plugin development
 
 ## GitHub Metrics
